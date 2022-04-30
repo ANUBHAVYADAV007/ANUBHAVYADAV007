@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ANUBHAVYADAV007
 - 👀 I’m interested in .java..
 - 🌱 I’m currently learning ..java.
-- 💞️ I’m looking to collaborate on .mohali carrier point..
+- 💞️ I’m looking to collaborate on CodersRank
 - 📫 How to reach me .linkedIn..
 
 <!---
